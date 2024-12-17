@@ -1,0 +1,5 @@
+1,John Doe,35,john.doe@gmail.com,+921234567890,Hypertension,Temp: 39°C, BP: 120/80, HR: 79 bpm (Recorded by Nurse ID: 1)
+2,Sarah Connor,29,sarah.connor@yahoo.com,+921112223344,Diabetes,"Temp: 99
+3,Ali Khan,40,ali.khan@outlook.com,+923001234567,Asthma,"Temp: 97
+4,Maria Sharif,24,maria.sharif@mail.com,+922134567890,Stress,"Temp: 98
+5,Ahmed Raza,50,ahmed.raza@gmail.com,+924567890123,Heart Disease,"Temp: 99
